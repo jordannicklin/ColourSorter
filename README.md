@@ -1,2 +1,2 @@
 # ColourSorter
-basic visual sorter on 2d realm
+a visual bubble sorter on 2d realm
